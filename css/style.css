@@ -32,6 +32,8 @@ header {
 
 li {
  list-style: none;
+ margin-left: 5px;
+ margin-right: 5px;
 }
 
 .flex {
@@ -97,11 +99,9 @@ nav ul li a:hover {
 }
 
 .parah {
-	color: white;
-	padding: color: white;
+    color: white;
     padding: 140px;
-    font-weight: 500;;
-	font-weight: 500;
+    font-weight: 500;
 }
 
 .parah span{
@@ -132,7 +132,7 @@ section span{
 	padding: 15px;
 }
 .tag-1{
-	display: block;
+    display: block;
     font-weight: 700;
     text-align: center;
     
@@ -171,10 +171,6 @@ article h1 {
     padding: 18px 0;
 }
 
-article a:hover{
-	background: 
-}
-
 article img {
 	width: 100%;
 	border-radius: 10px;
@@ -201,14 +197,14 @@ ul.footer-item  li a {
    color: #0000009e;
    display: block;
    padding: 6px 15px;
-   font-size: 16px;
+   font-size: 17px;
    text-transform: initial;
    text-decoration: none;
 }
 ul.footer-item li a input{
 	display: inline-block;
-    padding: 8px;
-    margin: 6px;
+        padding: 8px;
+        margin: 6px;
 }
 
 ul.icon-link {
@@ -216,14 +212,14 @@ ul.icon-link {
 }
 ul.icon-link li{}
 ul.icon-link li span{
-	color: #0000009e;
+    color: #0000009e;
     display: block;
     padding-left: 20px;
     font-size: 16px;
     text-transform: initial;
 }
 ul.icon-link li a{
-	color: #0000009e;
+   color: #0000009e;
    display: block;
    padding-left: 20px;;
    font-size: 18px;
@@ -231,8 +227,7 @@ ul.icon-link li a{
    text-decoration: none;
 }
 ul.icon-link li a:hover{
-	background: #0000009e;
-	color: white;
+	color: #2b2a2a;
 }
 
 
